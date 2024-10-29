@@ -1,3 +1,2 @@
-This is a repository containing all my projects 
-The projects are divided into different branches
-Please check Branch for every different project
+This Repository Contains the code and schemetics for a 
+line following obstacle avoiding robot using Arduino.
