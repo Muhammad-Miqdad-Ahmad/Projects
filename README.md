@@ -1,3 +1,3 @@
-This is a repository containing all my projects 
-The projects are divided into different branches
-Please check Branch for every different project
+This is a C++ code for managing a prison.
+It uses binary trees to optimize data handling and searching.
+data is stored in files. 
