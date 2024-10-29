@@ -1,3 +1,2 @@
-This is a repository containing all my projects 
-The projects are divided into different branches
-Please check Branch for every different project
+This is the branch with the 4-bit multiplier.
+It contains the simulation diagrams, Simulation images, circut diagrams and verilog code.

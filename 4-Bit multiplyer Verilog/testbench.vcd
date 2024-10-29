@@ -1,0 +1,184 @@
+$date
+	Mon Nov 13 10:54:26 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test $end
+$var wire 8 ! d [7:0] $end
+$var reg 4 " a [3:0] $end
+$var reg 4 # b [3:0] $end
+$scope module two $end
+$var wire 4 $ A [3:0] $end
+$var wire 4 % B [3:0] $end
+$var wire 1 & and10 $end
+$var wire 1 ' and11 $end
+$var wire 1 ( and12 $end
+$var wire 1 ) and13 $end
+$var wire 1 * and14 $end
+$var wire 1 + and15 $end
+$var wire 1 , and16 $end
+$var wire 1 - and2 $end
+$var wire 1 . and3 $end
+$var wire 1 / and4 $end
+$var wire 1 0 and5 $end
+$var wire 1 1 and6 $end
+$var wire 1 2 and7 $end
+$var wire 1 3 and8 $end
+$var wire 1 4 and9 $end
+$var wire 1 5 sum8 $end
+$var wire 1 6 sum7 $end
+$var wire 1 7 sum6 $end
+$var wire 1 8 sum4 $end
+$var wire 1 9 sum3 $end
+$var wire 1 : sum2 $end
+$var wire 1 ; carry9 $end
+$var wire 1 < carry8 $end
+$var wire 1 = carry7 $end
+$var wire 1 > carry6 $end
+$var wire 1 ? carry5 $end
+$var wire 1 @ carry4 $end
+$var wire 1 A carry3 $end
+$var wire 1 B carry2 $end
+$var wire 1 C carry11 $end
+$var wire 1 D carry10 $end
+$var wire 1 E carry1 $end
+$var wire 8 F P [7:0] $end
+$scope module f1 $end
+$var wire 1 . a $end
+$var wire 1 1 b $end
+$var wire 1 B carry $end
+$var wire 1 : sum $end
+$var wire 1 E Cin $end
+$upscope $end
+$scope module f2 $end
+$var wire 1 B Cin $end
+$var wire 1 / a $end
+$var wire 1 2 b $end
+$var wire 1 A carry $end
+$var wire 1 9 sum $end
+$upscope $end
+$scope module f3 $end
+$var wire 1 & a $end
+$var wire 1 9 b $end
+$var wire 1 > carry $end
+$var wire 1 7 sum $end
+$var wire 1 ? Cin $end
+$upscope $end
+$scope module f4 $end
+$var wire 1 > Cin $end
+$var wire 1 ' a $end
+$var wire 1 = carry $end
+$var wire 1 6 sum $end
+$var wire 1 8 b $end
+$upscope $end
+$scope module f5 $end
+$var wire 1 = Cin $end
+$var wire 1 ( a $end
+$var wire 1 < carry $end
+$var wire 1 5 sum $end
+$var wire 1 @ b $end
+$upscope $end
+$scope module f6 $end
+$var wire 1 * a $end
+$var wire 1 6 b $end
+$var wire 1 D carry $end
+$var wire 1 G sum $end
+$var wire 1 ; Cin $end
+$upscope $end
+$scope module f7 $end
+$var wire 1 D Cin $end
+$var wire 1 + a $end
+$var wire 1 5 b $end
+$var wire 1 C carry $end
+$var wire 1 H sum $end
+$upscope $end
+$scope module f8 $end
+$var wire 1 C Cin $end
+$var wire 1 , a $end
+$var wire 1 < b $end
+$var wire 1 I carry $end
+$var wire 1 J sum $end
+$upscope $end
+$scope module h1 $end
+$var wire 1 - a $end
+$var wire 1 0 b $end
+$var wire 1 E carry $end
+$var wire 1 K sum $end
+$upscope $end
+$scope module h2 $end
+$var wire 1 3 a $end
+$var wire 1 A b $end
+$var wire 1 @ carry $end
+$var wire 1 8 sum $end
+$upscope $end
+$scope module h3 $end
+$var wire 1 4 a $end
+$var wire 1 : b $end
+$var wire 1 ? carry $end
+$var wire 1 L sum $end
+$upscope $end
+$scope module h4 $end
+$var wire 1 ) a $end
+$var wire 1 7 b $end
+$var wire 1 ; carry $end
+$var wire 1 M sum $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0M
+0L
+1K
+1J
+0I
+1H
+0G
+b1100011 F
+0E
+1D
+0C
+0B
+0A
+0@
+0?
+0>
+0=
+0<
+1;
+0:
+19
+08
+17
+06
+05
+04
+03
+02
+01
+00
+1/
+0.
+1-
+1,
+0+
+1*
+1)
+0(
+0'
+0&
+b1001 %
+b1011 $
+b1001 #
+b1011 "
+b1100011 !
+$end
+#10
